@@ -1,0 +1,48 @@
+body{
+    box-sizing: border-box;
+    background-color: #646464 !important;
+}
+
+.innerdiv{
+    color: orange;
+    display: block;
+    margin: auto;
+}
+
+.main_cont{
+background-color: #646464;
+}
+#hub{
+    color: orange;
+}
+.brand{
+    color: orangered !important;
+}
+.inner_cont{
+    padding-bottom: 150px;
+    padding-top: 10px;
+    
+    background-color: #646464;
+    
+    
+}
+.top_des{
+    justify-content: center;
+    display: flex;
+}
+#lets{
+color :orange
+}
+form{
+   
+    border-radius: 25px; 
+    /* padding: 10px; */
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+    /* border-radius: 5px; */
+    padding: 25px;
+    padding-bottom: 50px;
+}
+input {
+    background-color: #5E5E5E !important;
+}
